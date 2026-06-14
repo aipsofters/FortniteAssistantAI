@@ -43,8 +43,3 @@ Where $k$ acts as the **Smoothing/Humanization Factor** to guarantee fluid, natu
 * NVIDIA GPU with CUDA Core support (highly recommended for sub-5ms inference times).
 * Python 3.10+ environment.
 
-### Installation
-1. Clone the repository using an isolated workspace:
-   ```bash
-   git clone [https://github.com/yourusername/VictoryVision-AI.git](https://github.com/yourusername/VictoryVision-AI.git)
-   cd VictoryVision-AI
