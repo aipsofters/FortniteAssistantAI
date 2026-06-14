@@ -14,7 +14,9 @@ FortniteAssistantAI is a high-performance, non-intrusive accessibility and analy
 Instead of interacting with game memory (Internal), the engine uses an **External Pixel-Analysis Pipeline** to identify distinct geometric shapes, character player models (Skins), and build structures unique to *Fortnite*'s art style.
 * **Building & Edit Visual Aid:** Isolates player silhouettes amidst dense building structures or custom edits.
 * **Distance Approximation:** Leverages bounding-box scaling to calculate real-time distance metrics of moving entities.
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/aa67c5eb-84a5-4e7b-8b0f-166277e2fe33" width="600" alt="Spatial Telemetry Overlay">
+</p>
 ### 2. Low-Latency Input Alignment Vector (Dynamic Tracking)
 Calculates the spatial discrepancy between the user's current camera vector and the detected target matrix. 
 * **Humanized Smoothing:** Uses advanced Bezier curve interpolation to prevent robotic movements, emulating organic human input.
@@ -24,7 +26,9 @@ Calculates the spatial discrepancy between the user's current camera vector and 
 Renders a lightweight, transparent vector overlay directly onto the Windows Desktop Window Manager (DWM).
 * **Entity Telemetry:** Displays bounding frames around detected player models.
 * **Weapon Bloom & Recoil Compensation Assistance:** Provides static visual reference points to assist players in managing weapon spread patterns during bloom-heavy Fortnite gunplay.
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0ee09844-c63b-4222-a6aa-d43b9d157788" width="600" alt="Spatial Telemetry Overlay">
+</p>
 ---
 
 ## 🛠 Architectural Blueprint & Math
