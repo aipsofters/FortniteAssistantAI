@@ -40,7 +40,9 @@ The core alignment delta vector $\vec{A}$ is determined by calculating the dista
 $$\vec{A} = k \cdot \left( \begin{matrix} X_{t} - X_{c} \\ Y_{t} - Y_{c} \end{matrix} \right)$$
 
 Where $k$ acts as the **Smoothing/Humanization Factor** to guarantee fluid, natural behavioral emulation.
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f9d4b9ac-9b9c-452d-ad87-8789f0feaf64" width="600" alt="Spatial Telemetry Overlay">
+</p>
 ---
 
 ## 🚀 Deployment & Configuration
