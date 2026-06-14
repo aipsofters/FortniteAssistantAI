@@ -3,7 +3,9 @@
 FortniteAssistantAI is a high-performance, non-intrusive accessibility and analytics suite built using custom-trained neural networks. It is specifically optimized to analyze the fast-paced, high-verticality environment of *Fortnite* (including Battle Royale and Creative modes), providing real-time spatial awareness and input alignment.
 
 > **Legal & Educational Disclaimer:** This repository is maintained strictly for academic research, human-computer interaction analysis, and accessibility purposes. It does not manipulate game memory, modify game files, or inject code into the game client. Users are responsible for complying with the game's End User License Agreement (EULA).
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5e958565-0857-44f9-9966-1a7294e470f1" width="600" alt="Spatial Telemetry Overlay">
+</p>
 ---
 
 ## ⚡ Core Features & Technical Capabilities
