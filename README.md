@@ -2,8 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/aipsofters/FortniteAssistantAI/releases/latest">
-  
-    <img src="https://img.shields.io/badge/DOWNLOAD-LAUNCHER_v1.0.0-00ff66?style=for-the-badge&logo=windows&logoColor=1a1a2e&labelColor=1a1a2e" alt="Download FortniteAssistantAI" height="65" style="max-width: 100%;">
+  <img src="https://img.shields.io/badge/DOWNLOAD-LAUNCHER_v1.0.0-00ff66?style=for-the-badge&logo=windows&logoColor=1a1a2e&labelColor=1a1a2e" alt="Download FortniteAssistantAI" height="65" style="max-width: 100%;">
 
   </a>
 </p>
