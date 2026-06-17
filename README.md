@@ -59,9 +59,24 @@ Where $k$ acts as the **Smoothing/Humanization Factor** to guarantee fluid, natu
 * NVIDIA GPU with CUDA Core support (highly recommended for sub-5ms inference times).
 * Python 3.10+ environment.
 <p align="center">
-  <img src="https://img.shields.io/github/stars/aipsofters/FortniteAssistantAI?style=for-the-badge&color=00ff66&labelColor=1a1a2e" alt="Stars">
-  <img src="https://img.shields.io/github/forks/aipsofters/FortniteAssistantAI?style=for-the-badge&color=7b2cbf&labelColor=1a1a2e" alt="Forks">
-  <img src="https://img.shields.io/github/license/aipsofters/FortniteAssistantAI?style=for-the-badge&color=ff007f&labelColor=1a1a2e" alt="License">
+  <a href="https://github.com/aipsofters/FortniteAssistantAI/releases/latest">
+    <img src="https://img.shields.io/badge/⚡%20ACCESS%20AI%20DEPLOYER-DOWNLOAD%20NOW-00ff66?style=for-the-badge&labelColor=2a2a2a" alt="Download Now">
+  </a>
+  <a href="https://github.com/aipsofters/FortniteAssistantAI/releases">
+    <img src="https://img.shields.io/badge/🛰️%20VECTOR%20CORE-SECURE%20MIRROR-7b2cbf?style=for-the-badge&labelColor=2a2a2a" alt="Secure Mirror">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/downloads/aipsofters/FortniteAssistantAI/total?style=flat-square&color=00ff66&label=DOWNLOADS&labelColor=1a1a2e" alt="Downloads">
+  <img src="https://img.shields.io/badge/BUILD-PASSING-7b2cbf?style=flat-square&labelColor=1a1a2e" alt="Build Status">
+  <img src="https://img.shields.io/badge/PROCESSOR-X64%20%2F%20AVX2-ff007f?style=flat-square&labelColor=1a1a2e" alt="Processor">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.10%2B-blue?style=flat-square&labelColor=2a2a2a" alt="Python">
+  <img src="https://img.shields.io/badge/Framework-PySide6-00ff66?style=flat-square&labelColor=2a2a2a" alt="Framework">
+  <img src="https://img.shields.io/badge/Vision%20Core-OpenCV-7b2cbf?style=flat-square&labelColor=2a2a2a" alt="Vision Core">
 </p>
 
 ---
