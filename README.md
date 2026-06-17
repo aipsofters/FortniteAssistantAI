@@ -70,7 +70,7 @@ Where $k$ acts as the **Smoothing/Humanization Factor** to guarantee fluid, natu
 
 <p align="center">
   
-<[![Downloads](https://img.shields.io/badge/DOWNLOADS-3540-ff4a5a?style=flat-square)](#)>
+  [![Downloads](https://img.shields.io/badge/DOWNLOADS-3540-ff4a5a?style=flat-square)](#)
   <img src="https://img.shields.io/badge/BUILD-PASSING-7b2cbf?style=flat-square&labelColor=1a1a2e" alt="Build Status">
   <img src="https://img.shields.io/badge/PROCESSOR-X64%20%2F%20AVX2-ff007f?style=flat-square&labelColor=1a1a2e" alt="Processor">
 </p>
