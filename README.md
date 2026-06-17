@@ -1,7 +1,5 @@
 # FortniteAssistantAI
-<p align="center">
-  <img src="assets/logo.png" alt="FortniteAssistantAI Premium Logo" width="220px">
-</p>
+
 ---
 ##  Technical Stack & Pipeline
 # FortniteAssistantAI: Advanced Computer Vision & Input Optimization Framework for Fortnite Environments
