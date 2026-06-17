@@ -39,7 +39,7 @@ Renders a lightweight, transparent vector overlay directly onto the Windows Desk
 </p>
 ---
 
-## 🛠 Architectural Blueprint & Math
+##  Architectural Blueprint & Math
 
 The framework captures the screen at high refresh rates (144Hz+) and processes frames through a lightweight, custom-weighted inference engine.
 
