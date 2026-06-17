@@ -1,38 +1,6 @@
-# ⚡ FortniteAssistantAI
-
-<p align="center">
-  <img src="https://img.shields.io/github/stars/aiprogrammers/FortniteAssistantAI?style=for-the-badge&color=00ff66&labelColor=1a1a2e" alt="Stars">
-  <img src="https://img.shields.io/github/forks/aiprogrammers/FortniteAssistantAI?style=for-the-badge&color=7b2cbf&labelColor=1a1a2e" alt="Forks">
-  <img src="https://img.shields.io/github/license/aiprogrammers/FortniteAssistantAI?style=for-the-badge&color=ff007f&labelColor=1a1a2e" alt="License">
-</p>
-
-<p align="center">
-  <b>High-Speed Neural Computer Vision & Real-Time Object Tracking Framework for BR Environments</b>
-  <br>
-  <sub>Engineered with PySide6 GUI, Ultra-Low Latency OpenCV Pipelines, and Adaptive Coordinate Mapping.</sub>
-</p>
-
+# FortniteAssistantAI
 ---
-
-## 🌌 System Interface Preview
-> **Bento Grid Design** featuring high-contrast static analytical overlays, neon aesthetics, and a custom hardware-accelerated initialization sequence.
-
-| Telemetry Control Center | Spatial Vector Analytics |
-|---|---|
-| <img src="https://raw.githubusercontent.com/aiprogrammers/FortniteAssistantAI/main/assets/preview1.png" width="400" alt="Main Panel"> | <img src="https://raw.githubusercontent.com/aiprogrammers/FortniteAssistantAI/main/assets/preview2.png" width="400" alt="AI Overlay"> |
-
----
-
-## 🔮 Key Architectural Modules
-
-* **Dynamic Object Tracking:** Real-time multi-class asset detection utilizing localized bounding box generation optimized for rapid-motion environments.
-* **Spatial Trajectory Modeling:** Advanced mathematical processing of screen-space vectors to analyze structural environments and entity positioning.
-* **Glassmorphic Matrix UI:** A streamlined, static-background cyberpunk interface built on **PySide6** with enhanced readability for high-intensity sessions.
-* **Fault-Tolerant Diagnostics:** Real-time execution logging backed by a dedicated telemetry verification routine.
-
----
-
-## 🛠️ Technical Stack & Pipeline
+##  Technical Stack & Pipeline
 # FortniteAssistantAI: Advanced Computer Vision & Input Optimization Framework for Fortnite Environments
 
 FortniteAssistantAI is a high-performance, non-intrusive accessibility and analytics suite built using custom-trained neural networks. It is specifically optimized to analyze the fast-paced, high-verticality environment of *Fortnite* (including Battle Royale and Creative modes), providing real-time spatial awareness and input alignment.
@@ -43,7 +11,7 @@ FortniteAssistantAI is a high-performance, non-intrusive accessibility and analy
 </p>
 ---
 
-## ⚡ Core Features & Technical Capabilities
+##  Core Features & Technical Capabilities
 
 ### 1. Dynamic Model Recognition (Visual Assistance)
 Instead of interacting with game memory (Internal), the engine uses an **External Pixel-Analysis Pipeline** to identify distinct geometric shapes, character player models (Skins), and build structures unique to *Fortnite*'s art style.
@@ -80,9 +48,32 @@ Where $k$ acts as the **Smoothing/Humanization Factor** to guarantee fluid, natu
 </p>
 ---
 
-## 🚀 Deployment & Configuration
+##  Deployment & Configuration
 
 ### Prerequisites
 * NVIDIA GPU with CUDA Core support (highly recommended for sub-5ms inference times).
 * Python 3.10+ environment.
+<p align="center">
+  <img src="https://img.shields.io/github/stars/aiprogrammers/FortniteAssistantAI?style=for-the-badge&color=00ff66&labelColor=1a1a2e" alt="Stars">
+  <img src="https://img.shields.io/github/forks/aiprogrammers/FortniteAssistantAI?style=for-the-badge&color=7b2cbf&labelColor=1a1a2e" alt="Forks">
+  <img src="https://img.shields.io/github/license/aiprogrammers/FortniteAssistantAI?style=for-the-badge&color=ff007f&labelColor=1a1a2e" alt="License">
+</p>
 
+<p align="center">
+  <b>High-Speed Neural Computer Vision & Real-Time Object Tracking Framework for BR Environments</b>
+  <br>
+  <sub>Engineered with PySide6 GUI, Ultra-Low Latency OpenCV Pipelines, and Adaptive Coordinate Mapping.</sub>
+</p>
+
+---
+
+##  System Interface Preview
+> **Bento Grid Design** featuring high-contrast static analytical overlays, neon aesthetics, and a custom hardware-accelerated initialization sequence.
+---
+
+##  Key Architectural Modules
+
+* **Dynamic Object Tracking:** Real-time multi-class asset detection utilizing localized bounding box generation optimized for rapid-motion environments.
+* **Spatial Trajectory Modeling:** Advanced mathematical processing of screen-space vectors to analyze structural environments and entity positioning.
+* **Glassmorphic Matrix UI:** A streamlined, static-background cyberpunk interface built on **PySide6** with enhanced readability for high-intensity sessions.
+* **Fault-Tolerant Diagnostics:** Real-time execution logging backed by a dedicated telemetry verification routine.
