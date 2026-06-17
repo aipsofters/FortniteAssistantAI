@@ -73,3 +73,4 @@ Where $k$ acts as the **Smoothing/Humanization Factor** to guarantee fluid, natu
 * **Glassmorphic Matrix UI:** A streamlined, static-background cyberpunk interface built on **PySide6** with enhanced readability for high-intensity sessions.
 * **Fault-Tolerant Diagnostics:** Real-time execution logging backed by a dedicated telemetry verification routine.
 ​
+​
