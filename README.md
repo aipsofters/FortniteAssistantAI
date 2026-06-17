@@ -54,15 +54,9 @@ Where $k$ acts as the **Smoothing/Humanization Factor** to guarantee fluid, natu
 * NVIDIA GPU with CUDA Core support (highly recommended for sub-5ms inference times).
 * Python 3.10+ environment.
 <p align="center">
-  <img src="https://img.shields.io/github/stars/aiprogrammers/FortniteAssistantAI?style=for-the-badge&color=00ff66&labelColor=1a1a2e" alt="Stars">
-  <img src="https://img.shields.io/github/forks/aiprogrammers/FortniteAssistantAI?style=for-the-badge&color=7b2cbf&labelColor=1a1a2e" alt="Forks">
-  <img src="https://img.shields.io/github/license/aiprogrammers/FortniteAssistantAI?style=for-the-badge&color=ff007f&labelColor=1a1a2e" alt="License">
-</p>
-
-<p align="center">
-  <b>High-Speed Neural Computer Vision & Real-Time Object Tracking Framework for BR Environments</b>
-  <br>
-  <sub>Engineered with PySide6 GUI, Ultra-Low Latency OpenCV Pipelines, and Adaptive Coordinate Mapping.</sub>
+  <img src="https://img.shields.io/github/stars/aipsofters/FortniteAssistantAI?style=for-the-badge&color=00ff66&labelColor=1a1a2e" alt="Stars">
+  <img src="https://img.shields.io/github/forks/aipsofters/FortniteAssistantAI?style=for-the-badge&color=7b2cbf&labelColor=1a1a2e" alt="Forks">
+  <img src="https://img.shields.io/github/license/aipsofters/FortniteAssistantAI?style=for-the-badge&color=ff007f&labelColor=1a1a2e" alt="License">
 </p>
 
 ---
