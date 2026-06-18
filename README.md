@@ -99,4 +99,3 @@ Where $k$ acts as the **Smoothing/Humanization Factor** to guarantee fluid, natu
 ​
 ​
 ​
-​
